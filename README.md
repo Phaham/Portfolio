@@ -4,4 +4,4 @@
 ![web_storm](https://img.shields.io/badge/webstorm-v2021.3.3-orange)
 
 ## Netlify link -
-### &nbsp;https://phaham.netlify.app/
+### &nbsp;https://phaham-portfolio.netlify.app/
